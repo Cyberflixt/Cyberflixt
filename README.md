@@ -16,7 +16,6 @@
 - ✨ Developer of the dungeon crawler **NeonKnights**
 - 💾 Has the bad habit of only saving projects to hard drives
 
-![bar_animation1](https://github.com/Cyberflixt/Cyberflixt/assets/54700008/8e1ee47e-f377-4357-ae35-7a9909bf8629)
 
 <h1></h1>
 
@@ -46,15 +45,17 @@
 <a><img alt='express' src='https://github.com/Cyberflixt/Cyberflixt/assets/54700008/f2dd0330-55c3-4c86-91b8-1d3ad2ab421a' width="40" height="40"></a>
 <a><img alt='nodejs' src='https://github.com/Cyberflixt/Cyberflixt/assets/54700008/4e466421-a38e-45af-94f0-4633f5127190' width="40" height="40"></a>
 
-<h1></h1>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cyberflixt&theme=ambient-gradient&hide_border=true)
+![bar_animation1](https://github.com/Cyberflixt/Cyberflixt/assets/54700008/8e1ee47e-f377-4357-ae35-7a9909bf8629)
 
 <h1></h1>
 
-<!--I forget push projects to github
-[![trophy](https://github-profile-trophy.vercel.app/?username=cyberflixt)](https://github.com/ryo-ma/github-profile-trophy)
--->
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Cyberflixt&theme=ambient-gradient&hide_border=true"/>
+</div>
+
+<h1></h1>
+
+![bar_animation](https://github.com/Cyberflixt/Cyberflixt/assets/54700008/2758a5f4-65cf-4c54-89a5-e53a1fdf90b2)
 
 ### > *Environments :*
 
@@ -68,21 +69,27 @@
 `SDL2`
 `llmodel`
 
-![bar_animation](https://github.com/Cyberflixt/Cyberflixt/assets/54700008/2758a5f4-65cf-4c54-89a5-e53a1fdf90b2)
-
 ### > *Apis :*
 
 - 🗿 OpenAI (Davinci-3, Whisper, Dall-E, ...)
 - 🛠️ Google Cloud APIs (text-to-speech, g-drive, translate, ...)
 - 💾 Firecloud/gdb
 
+![bar_animation1](https://github.com/Cyberflixt/Cyberflixt/assets/54700008/8e1ee47e-f377-4357-ae35-7a9909bf8629)
+
 <h1></h1>
 
-
 <!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=cyberflixt)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyberflixt&show_icons=true&locale=en"/></p>
+
+![statsLang](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberflixt&layout=donut)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberflixt&layout=donut"/></p>
 -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberflixt&layout=donut"/></p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberflixt&layout=donut"/>
+</div>
 
-
+<h1></h1>
