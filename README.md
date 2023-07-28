@@ -46,6 +46,9 @@
 <a><img alt='express' src='https://github.com/Cyberflixt/Cyberflixt/assets/54700008/f2dd0330-55c3-4c86-91b8-1d3ad2ab421a' width="40" height="40"></a>
 <a><img alt='nodejs' src='https://github.com/Cyberflixt/Cyberflixt/assets/54700008/4e466421-a38e-45af-94f0-4633f5127190' width="40" height="40"></a>
 
+<h1></h1>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cyberflixt&theme=ambient-gradient&hide_border=true)
 
 <h1></h1>
 
@@ -65,10 +68,21 @@
 `SDL2`
 `llmodel`
 
+![bar_animation](https://github.com/Cyberflixt/Cyberflixt/assets/54700008/2758a5f4-65cf-4c54-89a5-e53a1fdf90b2)
+
 ### > *Apis :*
 
 - 🗿 OpenAI (Davinci-3, Whisper, Dall-E, ...)
 - 🛠️ Google Cloud APIs (text-to-speech, g-drive, translate, ...)
 - 💾 Firecloud/gdb
 
-![bar_animation](https://github.com/Cyberflixt/Cyberflixt/assets/54700008/2758a5f4-65cf-4c54-89a5-e53a1fdf90b2)
+<h1></h1>
+
+
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyberflixt&show_icons=true&locale=en"/></p>
+-->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberflixt&layout=donut"/></p>
+
+
