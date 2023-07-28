@@ -14,7 +14,7 @@
 - 💼 Learning Unity engine environment
 - 🪛 Expert at procedural generation algorithms
 - ✨ Indie games || Misc software || Plugins
-- 💾 Has the bad habit of only saving projects to hard drives
+- 📎 Enjoys Scratch overengineering
 
 ![bar_animation1](https://github.com/Cyberflixt/Cyberflixt/assets/54700008/8e1ee47e-f377-4357-ae35-7a9909bf8629)
 
@@ -36,6 +36,7 @@
 
 `Firebase`
 `Webpack`
+`Bpy`
 `Ajax`
 `Unity`
 `Unreal`
