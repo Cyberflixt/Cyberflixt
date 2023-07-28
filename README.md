@@ -2,7 +2,13 @@
 
 <h1 align="center">&lt Cyberflixt &gt</h1>
 
+<!--
 ### <div align="center">Full Stack software developer & professional 3D modeler.</div>
+-->
+
+<div align='center'><br>
+<img src="https://readme-typing-svg.demolab.com?font=Darumadrop+One&size=30&duration=1500&pause=2000&center=true&vCenter=true&width=1000&lines=Full+Stack+software+developer+%26+professional+3D+modeler;%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%8B%E3%81%84%E3%81%AF%E3%81%A4%E3%81%97%E3%82%83%E3%80%81%E3%83%97%E3%83%AD%E3%81%AE3D%E3%83%A2%E3%83%87%E3%83%A9%E3%83%BC;D%C3%A9veloppeur+de+logiciels+Full+Stack+et+mod%C3%A9lisateur+3D+professionnel" alt="Typing SVG" />
+</div>
 
 <h1></h1>
 
@@ -22,26 +28,32 @@
 
 <div align='center'>
   
-### **> Languages & tools:**
+### **> Languages/Markup & tools:**
 
-`Bash`
-`C#`
-`C++`
-`Scheme`
-`Lua`
-`Js`
-`Py`
-`CSS3`
-`HTML5`
 
-`Firebase`
-`Webpack`
-`Bpy`
-`Ajax`
-`Unity`
-`Unreal`
-`NodeJs`
-`Express`
+<img src='https://custom-icon-badges.demolab.com/badge/Bash-0d1620.svg?logo=bash'>
+<img src='https://custom-icon-badges.demolab.com/badge/C%23-0d1620.svg?logo=cs&logoColor=fff'>
+<img src='https://custom-icon-badges.demolab.com/badge/C++-0d1620.svg?logo=cpp&logoColor=fff'>
+<img src='https://custom-icon-badges.demolab.com/badge/Scheme-0d1620.svg?logo=scheme&logoColor=fff'>
+<img src='https://custom-icon-badges.demolab.com/badge/Lua-0d1620.svg?logo=lua'>
+<img src='https://custom-icon-badges.demolab.com/badge/JavaScript-0d1620.svg?logo=js'>
+<img src='https://custom-icon-badges.demolab.com/badge/Python-0d1620.svg?logo=python'>
+<img src='https://custom-icon-badges.demolab.com/badge/CSS3-0d1620.svg?logo=css3'>
+<img src='https://custom-icon-badges.demolab.com/badge/HTML5-0d1620.svg?logo=html5'>
+
+<br>
+
+<img src='https://custom-icon-badges.demolab.com/badge/Firebase-0d1620.svg?logo=firebase'>
+<img src='https://custom-icon-badges.demolab.com/badge/Webpack-0d1620.svg?logo=webpack'>
+<img src='https://custom-icon-badges.demolab.com/badge/Bpy-0d1620.svg?logo=blender'>
+<img src='https://custom-icon-badges.demolab.com/badge/Ajax-0d1620.svg?logo=ajax'>
+<img src='https://custom-icon-badges.demolab.com/badge/Unity-0d1620.svg?logo=unity'>
+<img src='https://custom-icon-badges.demolab.com/badge/Unreal-0d1620.svg?logo=unrealengine'>
+<img src='https://custom-icon-badges.demolab.com/badge/NodeJs-0d1620.svg?logo=nodejs&logoColor=fff'>
+<img src='https://custom-icon-badges.demolab.com/badge/Express-0d1620.svg?logo=express'>
+<img src='https://custom-icon-badges.demolab.com/badge/FFMPEG-0d1620.svg?logo=ffmpeg'>
+
+<br><br>
 
 <a title='Bash' href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)'><img src='https://icons-for-free.com/download-icon-bash+dark-1331550886960171470_512.png' width="40" height="40"></a>
 <a title='Webpack' href='https://en.wikipedia.org/wiki/Webpack'><img alt='webpack' src='https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png' width="40" height="40"></a>
@@ -57,6 +69,7 @@
 <a title='Firebase' href='https://en.wikipedia.org/wiki/Firebase'><img alt='firebase' src='https://github.com/Cyberflixt/Cyberflixt/assets/54700008/5a01b3c8-f230-4dcb-b861-ab5a1b9f9158' width="40" height="40"></a>
 <a title='ExpressJs' href='https://fr.wikipedia.org/wiki/Express.js'><img alt='express' src='https://github.com/Cyberflixt/Cyberflixt/assets/54700008/f2dd0330-55c3-4c86-91b8-1d3ad2ab421a' width="40" height="40"></a>
 <a title='NodeJs' href='https://fr.wikipedia.org/wiki/Node.js'><img alt='nodejs' src='https://github.com/Cyberflixt/Cyberflixt/assets/54700008/4e466421-a38e-45af-94f0-4633f5127190' width="40" height="40"></a>
+<a title='FFMPEG' href=''><img alt='ffmpeg' src='https://icon-library.com/images/ffmpeg-icon/ffmpeg-icon-13.jpg' width="40" height="40"></a>
 
 </div>
 
@@ -84,10 +97,10 @@
 
 ### > *Apis :*
 
-- 🗿 OpenAI (Davinci-3, Whisper, Dall-E, ...)
+- ⚙️ OpenAI (Davinci-3, Whisper, Dall-E, ...)
 - 🛠️ Google Cloud APIs (text-to-speech, g-drive, translate, ...)
 - 💾 Firecloud/gdb
-- ⚙️ AbstractApi
+- 🔗 AbstractApi
 
 ![bar_animation1](https://github.com/Cyberflixt/Cyberflixt/assets/54700008/8e1ee47e-f377-4357-ae35-7a9909bf8629)
 
