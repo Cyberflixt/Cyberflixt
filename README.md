@@ -17,10 +17,9 @@
 - 📜 Lead programmer
 - 📸 3D modeler
 - 🎴 UI/UX Designer
-- 💼 Learning Unity engine environment
-- 🪛 Expert at procedural generation algorithms
+- 🪛 Procedural generation algorithms expert
 - ✨ Indie games || Misc software || Plugins
-- 📎 Enjoys Scratch overengineering
+- 🧱 Scratch overengineering pro
 
 ![bar_animation1](https://github.com/Cyberflixt/Cyberflixt/assets/54700008/8e1ee47e-f377-4357-ae35-7a9909bf8629)
 
@@ -86,14 +85,8 @@
 ### > *Environments:*
 
 - 🔥 Firebase
-- 🫧 Unreal Engine
+- 🎇 Unreal Engine
 - ✨ Unity
-
-### > *Libs:*
-
-`OPENGL`
-`SDL2`
-`llmodel`
 
 ### > *Apis :*
 
