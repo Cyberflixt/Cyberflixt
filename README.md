@@ -30,6 +30,7 @@
 
 
 <img src='https://custom-icon-badges.demolab.com/badge/Bash-0d1620.svg?logo=bash'>
+<img src='https://custom-icon-badges.demolab.com/badge/C-0d1620.svg?logo=c&logoColor=fff'>
 <img src='https://custom-icon-badges.demolab.com/badge/C%23-0d1620.svg?logo=cs&logoColor=fff'>
 <img src='https://custom-icon-badges.demolab.com/badge/C++-0d1620.svg?logo=cpp&logoColor=fff'>
 <img src='https://custom-icon-badges.demolab.com/badge/Scheme-0d1620.svg?logo=scheme&logoColor=fff'>
