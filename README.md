@@ -29,10 +29,10 @@
 ### **> Languages/Markup & tools:**
 
 
-<img src='https://custom-icon-badges.demolab.com/badge/Bash-0d1620.svg?logo=bash'>
 <img src='https://custom-icon-badges.demolab.com/badge/C-0d1620.svg?logo=c&logoColor=fff'>
 <img src='https://custom-icon-badges.demolab.com/badge/C%23-0d1620.svg?logo=cs&logoColor=fff'>
 <img src='https://custom-icon-badges.demolab.com/badge/C++-0d1620.svg?logo=cpp&logoColor=fff'>
+<img src='https://custom-icon-badges.demolab.com/badge/Bash-0d1620.svg?logo=bash'>
 <img src='https://custom-icon-badges.demolab.com/badge/Scheme-0d1620.svg?logo=scheme&logoColor=fff'>
 <img src='https://custom-icon-badges.demolab.com/badge/Lua-0d1620.svg?logo=lua'>
 <img src='https://custom-icon-badges.demolab.com/badge/JavaScript-0d1620.svg?logo=js'>
@@ -57,7 +57,6 @@
 
 <br><br>
 
-<a title='Bash' href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)'><img src='https://icons-for-free.com/download-icon-bash+dark-1331550886960171470_512.png' width="40" height="40"></a>
 <a title='Webpack' href='https://en.wikipedia.org/wiki/Webpack'><img alt='webpack' src='https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png' width="40" height="40"></a>
 <a title='Lua' href='https://fr.wikipedia.org/wiki/Lua'><img alt='nodejs' src='https://github.com/Cyberflixt/Cyberflixt/assets/54700008/981ff115-9054-4e6f-9629-d813e308bf1c' width="40" height="40"></a>
 <a title='C#' href='https://fr.wikipedia.org/wiki/C_Sharp'><img alt='C#' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg' width="40" height="40"></a>
@@ -113,7 +112,7 @@
 -->
 
 <div align="center">
-<p>Public stats</p>
+<p><ins>Public</ins> repositories:</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberflixt&layout=donut"/>
 </div>
 
