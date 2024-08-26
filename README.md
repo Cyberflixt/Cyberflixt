@@ -15,10 +15,9 @@
 ![bar_animation](https://github.com/Cyberflixt/Cyberflixt/assets/54700008/2758a5f4-65cf-4c54-89a5-e53a1fdf90b2)
 
 - 📜 Lead programmer
-- 📸 3D modeler
+- 🧱 3D modeler
 - 🎴 UI/UX Designer
-- ✨ Indie games / Softwares / Plugins
-- 🧱 Scratch overengineering expert
+- ✨ Games / Softwares / Plugins / APIs ...
 
 ![bar_animation1](https://github.com/Cyberflixt/Cyberflixt/assets/54700008/8e1ee47e-f377-4357-ae35-7a9909bf8629)
 
