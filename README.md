@@ -92,11 +92,12 @@
 
 ![statsLang](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberflixt&layout=donut)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberflixt&layout=donut"/></p>
--->
 
 <div align="center">
 <p><ins>Public</ins> repositories:</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberflixt&layout=donut"/>
 </div>
+-->
+
 
 <h1></h1>
